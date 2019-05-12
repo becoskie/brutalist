@@ -1,5 +1,4 @@
-# brutalist
-Basic brutal site using only browser supported html and css.  
+# brutalist 
 Single page site constructed only using HTML and CSS.  
   
 
@@ -12,16 +11,16 @@ Single page site constructed only using HTML and CSS.
 • It’s never a good idea to ignore potential users.  
 • Progressive Enhancements is just good engineering.
 
-##Features
+## Features
 
 • Custom media queries created based on site design and functionality.   
 • Custom svgs logos and assets.  
 • Using system fonts so there is no external asset loading required. Rendering well on every mainstream operating system and helping to reduce the overall page weight.
 
 
-##Project Workflow
+## Project Workflow
 
-###Initial Client meeting  
+### Initial Client meeting  
 The client had previous sites built from templates. They had issues with updates and browser support. They wanted a basic site with little to no maintenance and rock solid dependability.
 They clearly were looking for a dependency free site. No packages, templates, javascript or cdn dependencies. Using only browser supported html and css.    
 
