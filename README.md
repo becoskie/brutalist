@@ -52,12 +52,12 @@ With the framework in place and client approval, using the  designs as a guide c
 ![wireframe](assets/readme/client_mock_up.png)
 
 
-##Project Challenges
+## Project Challenges
 Creating device friendly navigation without the use of javascript.  
 
 
-##Live Link
-When operational insert live link here.
+## Live Link
+http://www.becoskie.com/devPortfolio/vanilla/
 
 ## Acknowledgments
 1. Aaron Gustafson - Progressive Enhancement [View article](https://www.aaron-gustafson.com/notebook/insert-clickbait-headline-about-progressive-enhancement-here/)
